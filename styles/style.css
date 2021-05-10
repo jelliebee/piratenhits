@@ -1,0 +1,27 @@
+
+  
+html {
+    font-family: "Open Sans", New Tegomin;
+    background-color: #C1272D;
+} 
+
+body {
+    width: 600px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 0 250px 250px 250px;
+    border: 5px solid black;
+  }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  
+ 
